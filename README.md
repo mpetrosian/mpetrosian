@@ -29,7 +29,5 @@ I can't share all of my research code here, but you can track my contributions t
 - Matplotlib, Plotly
 
 
-You can find my professional profile on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
+You can find my professional profile on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mariam-petrosyan-525731a5/).
 
