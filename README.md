@@ -18,7 +18,7 @@ I am a Economics Ph.D candidate at the Bonn Graduate School of Economics, gradua
  
 I have 3+ years of experience in empirical research, with practical application of  statistical analysis and data visualization in python. 
 
-As a data scientist, I have strong theoretical background in econometrics, statistics and mathematics, learning and  continuously improving myself in the field of machine learning.
+As a data scientist, I have strong theoretical background in econometrics, statistics and mathematics and have started on the journey of becoming a machine learning engineer.
 
 As a software engineer, I have come to enjoy few things as much as writing clean, testable and well documented code! 
 
