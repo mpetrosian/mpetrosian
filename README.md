@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am a Economics Ph.D candidate at the Bonn Graduate School of Economics, graduating in Spring 2023 (:tada:). 
  
-I have 3+ years of experience in empirical research, with practical application of  statistical analysis and data visualization in python. 
+I have 4+ years of experience in empirical research, with practical application of  statistical analysis and data visualization in python. 
 
 As a data scientist, I have strong theoretical background in econometrics, statistics and mathematics and have started on the journey of becoming a machine learning engineer.
 
